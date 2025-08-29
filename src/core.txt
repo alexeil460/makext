@@ -22,3 +22,4 @@ Makext is a collection of extensions for Makefiles that enhance the functionalit
 # handle the edge case from the last release
 # handle the edge case from the last release
 # drop an unused branch
+# guard against empty input
