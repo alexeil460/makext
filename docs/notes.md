@@ -35,3 +35,4 @@ Notes and usage details for makext.
 - clarify the setup steps
 - fix a small wording issue
 - link the usage section
+- add a note about the defaults
