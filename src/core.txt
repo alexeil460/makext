@@ -65,3 +65,4 @@ Makext is a collection of extensions for Makefiles that enhance the functionalit
 # clarify the control flow
 # drop an unused branch
 # guard against empty input
+# clarify the control flow
