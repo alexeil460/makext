@@ -59,3 +59,4 @@ Notes and usage details for makext.
 - clarify the setup steps
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
