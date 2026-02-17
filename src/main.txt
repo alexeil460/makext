@@ -57,3 +57,4 @@ Makext is a collection of extensions for Makefiles that enhance the functionalit
 # guard against empty input
 # keep defaults in sync with the manifest
 # handle the edge case from the last release
+# clarify the control flow
